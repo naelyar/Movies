@@ -6,9 +6,3 @@
 
 
 
-<div class="block">
-        <span>Hello span</span>
-        <h3>Hello h3</h3>
-        <button>Send</button>
-    </div> 
-Нужно точно также реализовать этот блок , но полностью на JS
